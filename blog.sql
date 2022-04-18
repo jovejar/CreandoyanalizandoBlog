@@ -1,5 +1,5 @@
 --Requerimientos
-\c marlen
+\c jovejar
 DROP DATABASE blog;
 --1. Crear base de datos llamada blog.
 CREATE DATABASE blog;
